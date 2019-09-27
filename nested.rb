@@ -70,8 +70,8 @@ def adding_matz
 
 	programmer_hash = 
  		{ 
- 		  :yukihiro_matsumoto => {"key"
- 		 } ,
+ 		  :yukihiro_matsumoto => {:newhash => "key"
+ 		 },
         :grace_hopper => {
           :known_for => "COBOL",
           :languages => ["COBOL", "FORTRAN"]
