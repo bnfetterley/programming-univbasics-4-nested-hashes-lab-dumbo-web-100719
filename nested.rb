@@ -86,7 +86,7 @@ def adding_matz
         }
      }
 
-    return :new_pair
+    return :yukihiro_matsumoto
 end
 
 def changing_alan
