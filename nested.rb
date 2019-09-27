@@ -70,7 +70,7 @@ def adding_matz
 
 	programmer_hash = 
  		{ 
- 		  :new_pair => {"new kay"
+ 		  :new_pair => {"new key"
  		  },
         :grace_hopper => {
           :known_for => "COBOL",
