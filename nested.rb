@@ -109,6 +109,7 @@ def changing_alan
      alans_new_info = "GUI"
      
      programmer_hash[:alan_kay] = "Not Object Orientation"
+     return programmer_hash:[alan_kay]
      
 end
 
